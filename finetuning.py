@@ -6,7 +6,6 @@ from transformers import (
 )
 from datasets import load_dataset
 import tensorflow as tf
-import numpy as np
 import shutil
 import os
 

@@ -1,5 +1,3 @@
-# Test the model myself
-import numpy as np
 from transformers import (
   TFAutoModelForSequenceClassification,
   create_optimizer,

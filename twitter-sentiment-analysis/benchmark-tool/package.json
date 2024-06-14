@@ -1,0 +1,23 @@
+{
+  "name": "models-benchmark",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Benchmarking tool for Transformers.js",
+  "main": "benchmark.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ace-design/reso-t-nlp.git"
+  },
+  "author": "Ahmed Elzaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ace-design/reso-t-nlp/issues"
+  },
+  "homepage": "https://github.com/ace-design/reso-t-nlp#readme",
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2"
+  }
+}
